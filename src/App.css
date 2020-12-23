@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+#details{
+  display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
